@@ -38,7 +38,8 @@
     "dev": "tsx src/index.ts",
     "build": "tsup && node -e \"require('fs').chmodSync('dist/index.js', '755')\"",
     "lint": "eslint src",
-    "lint:fix": "eslint src --fix"
+    "lint:fix": "eslint src --fix",
+    "prepare": "npm run build"
   },
   "tsup": {
     "entry": [
