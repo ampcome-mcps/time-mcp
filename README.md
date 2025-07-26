@@ -4,6 +4,10 @@
 
 A Model Context Protocol (MCP) server implementation that allows LLMs to have time awareness capabilities.
 
+<a href="https://glama.ai/mcp/servers/@ampcome-mcps/time-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@ampcome-mcps/time-mcp/badge" alt="Time Server MCP server" />
+</a>
+
 <div align="center">
  <img src="./assets/cursor.png"></img>
 </div>
